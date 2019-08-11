@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+}
+
+.navbar{
+    
+    background:#007765; 
+    width: 2011px;
+    height: 84px;
+    margin: 0%;
+    position: fixed;
+    
+}
+.logo{
+    margin-left:501px ;
+    margin-top: 20px;
+}
+.pipernetimg{
+   background: url('img/image.png');
+   background-size: cover;
+}
+
